@@ -1,2 +1,2 @@
 # Website
-Hi, I'm Kenny! I create coding tutorials on Youtube!
+Hi, I'm Shaad! I am an Associate Professor at the UNH!
