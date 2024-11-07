@@ -1,2 +1,2 @@
 # Website
-A simple website using Bootstrap v5.2
+Hi, I'm Kenny! I create coding tutorials on Youtube!
